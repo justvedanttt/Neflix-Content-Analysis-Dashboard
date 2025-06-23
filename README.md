@@ -5,6 +5,8 @@ to explore and understand the vast library of content on Netflix. This dashboard
 multiple interactive insights, covering types of shows, genres, country-wise trends, and yearly patterns.
 
 
+
+
 🔍 Key Objectives
 
 Analyze the distribution of Movies vs TV Shows
@@ -16,6 +18,8 @@ Explore genre popularity and type-specific breakdown
 Visualize country-wise content distribution
 
 Provide actionable insights through KPIs and visual storytelling
+
+
 
 
 📄 Dashboard Pages Overview
@@ -33,6 +37,8 @@ KPI Cards showing total number of titles, total movies, and total TV shows.
 🧭 Clear slicers for filtering by Year and Content Type.
 
 
+
+
 🎭 Page 2: Genre & Country Insights
 
 🥧 Pie Chart comparing Movies vs TV Shows by percentage.
@@ -46,6 +52,8 @@ KPI Cards showing total number of titles, total movies, and total TV shows.
 🎛️ Genre Slicer for drill-down exploration.
 
 
+
+
 📅 Page 3: Yearly & Duration Analysis
 
 📆 Bar Chart showing content count by release year and type.
@@ -55,6 +63,8 @@ KPI Cards showing total number of titles, total movies, and total TV shows.
 ⏱️ Duration breakdown by genre, offering insights into content length trends.
 
 📚 Rich data coverage from 1970s to the present day.
+
+
 
 
 💡 Interesting Insights
@@ -70,6 +80,8 @@ KPI Cards showing total number of titles, total movies, and total TV shows.
 🎭 Drama, Comedy, and Documentaries are the most common genres globally.
 
 
+
+
 🛠️ Tools Used
 
 📌 Power BI Desktop for all visualizations and dashboards
@@ -77,6 +89,8 @@ KPI Cards showing total number of titles, total movies, and total TV shows.
 📊 Cleaned dataset of Netflix titles (publicly available)
 
 🧩 DAX measures and calculated columns for deriving insights
+
+
 
 
 📁 Dataset Fields
@@ -96,6 +110,8 @@ duration
 title
 
 
+
+
 🔗 Usage Tips
 
 Use slicers to filter by genre, year, or type for deeper insights.
@@ -103,6 +119,8 @@ Use slicers to filter by genre, year, or type for deeper insights.
 Hover over visualizations to view tooltips with detailed values.
 
 Each page is interactive and dynamically responds to selections.
+
+
 
 
 📢 Final Thoughts
